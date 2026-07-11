@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157e6c2ccd0d3a5408220eefb9d03c6e, type: 3}
+  m_Name: Player movement map
+  m_EditorClassIdentifier: 
+  MovementMap:
+  - Type: 1
+    Animation: {fileID: 7400000, guid: 11b688cf0f019fe458d2ab7505923e3a, type: 2}
+  - Type: 2
+    Animation: {fileID: 7400000, guid: 82b4d304b3003f24892941e45961be06, type: 2}
+  - Type: 3
+    Animation: {fileID: 7400000, guid: ffd23a71de8ba634f9a9404517d992da, type: 2}
+  - Type: 0
+    Animation: {fileID: 7400000, guid: d084e112b42037a4b934fe8f1a66305b, type: 2}
+  - Type: 4
+    Animation: {fileID: 7400000, guid: ae45317a5b60883458e1e50b31c686c6, type: 2}
